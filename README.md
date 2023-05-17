@@ -121,22 +121,42 @@ The Dataset consists of 9 columns which are:
     
     9. Created a powerpoint presentation with all the insights and conclusions listed with the indepth analysis.
     
-     
+**Predictions**
+| ML Model| R2 Score |
+| ------------- | ------------- |
+| **Linear Regression** | 88.73 %. |
+| **Decision Tree**  | 88.00 %  |
+| **Random Forest**  | 91.5 %   | 
+| **Grid search CV** | 92.5 %  |
+| **Polynomial Regression(dregree=2)** | 93.1 % |
   
 # <img src="https://www.getcloudapp.com/wp-content/uploads/2021/03/5aebb952e4867ce13f4d308f_laptop_gif_trans.gif" > Screenshots
 
+
+**This graph shows the correlation between all the columns in the datasets.For a perfect ML model their shouldn't be multicollinearity.** 
+
 ![image](https://user-images.githubusercontent.com/82110840/235917343-6197b1f0-af30-4c3a-829f-10a34167ae05.png)
+
+**This is a mulitivarient analysis containing different pairplots of all the columns in the dataset.It aims to understand the relationships, patterns, and interactions among multiple variables and how they collectively influence an outcome or phenomenon.**
 ![image](https://user-images.githubusercontent.com/82110840/235917392-0c946d40-09a9-43a4-87ca-cb2d6711d171.png)
+
+**The Graph shown below is the univarient analysis which shows the number of cars using different transmission and we can conclude that Manual cars are sold wiedly in the market.**
+
 ![image](https://user-images.githubusercontent.com/82110840/235917422-b3c5bba4-c0b2-4c7d-a1a5-4caeea899259.png)
+
+**The graph gives us an idea of the fuel type of majority number of car which id petrol cars are widely used in UK.It focuses on examining the characteristics, patterns, and distribution of a single variable without considering the relationship with other variables.**
+
 ![image](https://user-images.githubusercontent.com/82110840/235917444-964b77b1-1b2f-4e79-b88e-b78840aba98a.png)
 
 
 # Conclusions
 
-Predicted the car price for the used cars in UK.
+The developed machine learning model demonstrates a high level of accuracy and performance in predicting used car prices in the UK. It has undergone rigorous training and evaluation, achieving reliable results.
 
-Random Forest model gave the maximum accuracy.
+Extensive data preprocessing techniques were applied, including handling missing values, encoding categorical variables, and feature scaling. These steps ensured the quality and consistency of the input data, leading to improved model performance.
 
-It can also be implemented in different car rendals and second hnd market in India.
+The developed model exhibits robustness and generalization capabilities, successfully handling unseen data and outperforming traditional methods of used car price estimation. It has the potential to be deployed in real-world scenarios, supporting decision-making processes in the automotive industry.
+
+The model's design and implementation consider scalability and efficiency, enabling it to handle large datasets and accommodate future growth in the used car market. It is capable of processing data quickly, facilitating timely decision-making and enhancing operational efficiency
 
 
