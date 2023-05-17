@@ -20,13 +20,48 @@ Different features like  Transmission, tax, Mileage per gallon (mpg), engine siz
 | ------------- | ------------- |
 | **Investment Advisor IPYNB** | This file contains the ipynb code for the  project. |
 | **Project PPT Files**  | This file provides the powerpoint presentation which contains all the major insights and conclusions.  |
-| **Raw Data Files**  | This folder provides the raw data for the analysis .  |
-
-
-
+| **Hyundi.csv**  | This folder provides the raw data for the analysis .  |
 
 
 <p align="center"><img src="https://cdn.rentechdigital.com/common_files/blogs/machine-learning-swipecart-blog-img-01-31-08-2022.gif" width="600" ></p>
+
+
+##  DataSet
+The Dataset consists of 9 columns which are:
+
+    1. The model column which gives the name of the car model
+    
+    2. Year column Which include year from 2000 to 2020 details of different car sold in UK.
+    
+    3. Price column shows the price at which the car has been sold in the market.
+    
+    4. Transmission shows weather the car is automatic or manual.
+    
+    5. Mileage shows the KM driven .
+    
+    6. Fuel Type states weather it is petrol or diesel.
+    
+    7. MPG shows the miles per gallon.
+    
+    8.Tax and engine size are basically the tax paid by the individual and the power of each engine.
+
+
+
+
+
+
+
+
+.
+
+
+
+
+
+
+
+    
+    
 
 ##  <img src=https://user-images.githubusercontent.com/106439762/178428775-03d67679-9aa4-4b08-91e9-6eb6ed8faf66.gif  width="48" height="48"> **Analysis**
 
