@@ -147,7 +147,9 @@ The Dataset consists of 9 columns which are:
 **The graph gives us an idea of the fuel type of majority number of car which id petrol cars are widely used in UK.It focuses on examining the characteristics, patterns, and distribution of a single variable without considering the relationship with other variables.**
 
 ![image](https://user-images.githubusercontent.com/82110840/235917444-964b77b1-1b2f-4e79-b88e-b78840aba98a.png)
-
+# Challenges
+We Have Faced challenges while hyperparameter tuning the model to find the best parameters which give the maximum output.
+The polynomial regression which helped the model to attain its best performance was a new learning for the project.
 
 # Conclusions
 
